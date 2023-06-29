@@ -3,7 +3,7 @@ class Config(object):
 
     API_ID = "7376402"
     API_HASH = "f3ed41c9c67ccf319f7d26dc25cecc47"
-    TOKEN = "1844045546:AAEVqdxLt7DXvgHfbjypyx9AhhtpCRgmYz4"
+    TOKEN = "1844045546:AAFBY5qRYlOZNjz8_D4mILHDlEHEv9--8iE"
     OWNER_ID = "2097320259"
     OWNER_USERNAME = "xAbhish3k"
     SUPPORT_CHAT = "warbotzsupport"
